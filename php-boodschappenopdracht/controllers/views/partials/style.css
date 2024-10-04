@@ -1,0 +1,25 @@
+table {
+    border-collapse: collapse;
+    font-family: sans-serif;
+}
+th{
+    text-align: left;
+    border: 1px solid #888;
+    padding: 10px;
+}
+td{
+    text-align: right;
+    border: 1px solid #888;
+    padding: 10px;
+}
+.currentpage{
+   font-weight: bold;
+}
+.error{
+    font-weight: bold;
+    color: red;
+}
+
+label{
+    font-weight: bold;
+}
